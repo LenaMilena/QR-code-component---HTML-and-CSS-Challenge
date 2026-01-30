@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LenaMilena/QR-code-component---HTML-and-CSS-Challenge.git)
-- Live Site URL: [Add live site URL here](https://lenamilena.github.io/QR-code-component---HTML-and-CSS-Challenge/)
+- Solution URL: [solution URL here](https://github.com/LenaMilena/QR-code-component---HTML-and-CSS-Challenge.git)
+- Live Site URL: [Live site URL here](https://lenamilena.github.io/QR-code-component---HTML-and-CSS-Challenge/)
 
 ## My process
 
@@ -37,5 +37,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@LenaMilena](https://www.frontendmentor.io/profile/LenaMilena)
+
 
 
